@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "login": "jabenok",
+        "password_hash": "99eea36f1ecb179a275ffd0d883978710ab698165bb4b8fbd0e36f52c9b00818",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "login": "lalala",
+        "password_hash": "d48ff4b2f68a10fd7c86f185a6ccede0dc0f2c48538d697cb33b6ada3f1e85db",
+        "role": "user"
+    }
+]
