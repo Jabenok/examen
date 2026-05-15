@@ -1,0 +1,21 @@
+14-05-2026 16:06:04 - INFO - Logger initialized
+14-05-2026 16:06:04 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:04 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:41 - INFO - Logger initialized
+14-05-2026 16:06:41 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:41 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:57 - INFO - Logger initialized
+14-05-2026 16:06:57 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:57 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:57 - INFO - Logger initialized
+14-05-2026 16:06:57 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:57 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:58 - INFO - Logger initialized
+14-05-2026 16:06:58 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:58 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:58 - INFO - Logger initialized
+14-05-2026 16:06:58 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:58 - ERROR - IndexError: list index out of range
+14-05-2026 16:06:58 - INFO - Logger initialized
+14-05-2026 16:06:58 - ERROR - ZeroDivisionError: division by zero
+14-05-2026 16:06:58 - ERROR - IndexError: list index out of range
